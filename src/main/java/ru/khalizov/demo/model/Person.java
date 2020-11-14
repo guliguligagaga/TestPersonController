@@ -3,10 +3,8 @@ package ru.khalizov.demo.model;
 import com.opencsv.bean.CsvBindByPosition;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.ToString;
 
 import javax.persistence.*;
-import javax.validation.constraints.NotNull;
 
 @Entity
 @Table

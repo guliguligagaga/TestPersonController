@@ -5,7 +5,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.util.ResourceUtils;
 
 import java.io.File;
-import java.nio.file.Path;
 
 @Service
 public class FileProvider {
